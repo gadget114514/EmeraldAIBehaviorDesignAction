@@ -5,16 +5,17 @@ EmeraldAI Action of Behavior Designer
 
 This is bridge software for proprietary software, Emerald AI(Black Horizon Studios) and Behavior Designer for Everyone(opsive)
 
+
+https://assetstore.unity.com/packages/tools/ai/emerald-ai-2-0-40199
+https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277
+
 Behavior Designer actions are defined for each Emerald AI API.
 
 Select Emerald AI Action from "Actions"-"EmeraldAI".
 
-At most case, both AIs are evaluated, so tha stacking between AIs frequently would occur. 
 
+You know that, at most case, both AIs are evaluated, so tha stacking between AIs frequently would occur. 
 
-
-https://assetstore.unity.com/packages/tools/ai/emerald-ai-2-0-40199
-https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277
 
 
 In order to avoid conflict of twe AIs, the following figure shows usage of two AIs in different territory. 
