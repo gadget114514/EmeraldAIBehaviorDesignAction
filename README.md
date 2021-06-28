@@ -24,3 +24,6 @@ Then when the player walks to close the enemy stopping at the position, the enem
 
 ![SimpleExample](https://user-images.githubusercontent.com/34733747/123567250-aa127980-d7fc-11eb-8bbb-bbc4525e8381.png)
 
+
+Behavior Designer provides flexible AI but if you want to get instant solution, emerald AI is good for such demand.
+On the other hand, emerald AI maybe is not suitable for tactic or formation, for such usecase, Behavior Designer is good solution.
